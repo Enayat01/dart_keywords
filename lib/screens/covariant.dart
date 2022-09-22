@@ -1,3 +1,4 @@
+//overriding a parameter’s type with a subtype
 class Game {
   int points = 10;
   int opponentPoints = 5;

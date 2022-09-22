@@ -1,3 +1,7 @@
+//typedef—is a concise way to refer to a type
+typedef IntList = List<int>;
+IntList intList = [1, 2, 3];
+
 typedef Compare<T> = int Function(T a, T b);
 
 String sort(String a, int b) => 'a';
